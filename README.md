@@ -1,7 +1,7 @@
 # DSA-Capstone-Project
 # Amazon Product Review Analysis
 
-This project explores and analyzes product reviews from Amazon to uncover insights into product ratings, customer satisfaction, and performance trends using Excel and Power BI.
+This project explores and analyzes product reviews from Amazon to uncover insights into product ratings, customer satisfaction, and performance trends using Excel.
 
 ## Tools Used
 - Microsoft Excel (PivotTables, formulas, charts)
